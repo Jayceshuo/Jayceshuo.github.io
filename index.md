@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="js_photo.jpg" class="floatpic">
+<img src="js_photo.JPG" class="floatpic">
 
 Here is **JIANG Shuo (江硕)**.<br>
 
