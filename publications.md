@@ -4,17 +4,24 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (†: equal contribution, *: corresponding author)
 
 ## Journal Paper
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-  
-  
-  
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
 
-## Conference Paper
+- **Jiang, S.**, Liu, L., Peng, P., Xu, M., & Yan, R.<sup>*</sup> (2025). [Prediction of vessel arrival time to port: a review of current studies.](https://doi.org/10.1080/03088839.2025.2488376) Maritime Policy & Management, 1-26.
+
+- Yan, R.<sup>†</sup>, **Jiang, S.**<sup>†</sup>, Wang, K.<sup>*</sup>, & Wang, S. (2025). [Optimizing prediction models by considering different time granularity of features and target: Problem and solution.](https://doi.org/10.1016/j.trc.2025.105002) Transportation Research Part C: Emerging Technologies, 172, 105002.
+
+- Yan, R., Wang, S., Zhen, L.<sup>*</sup>, & **Jiang, S.** (2024). [Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.](https://doi.org/10.1016/j.cor.2023.106517) *Computers & Operations Research*, 163, 106517.
+
+<!-- - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
+  
+  
+  
+- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br> -->
+
+<!-- ## Conference Paper
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
 
@@ -49,4 +56,4 @@ title: Publications
 
   <br>
 
-<br>
+<br> -->
