@@ -15,6 +15,22 @@ title: Publications
 
 - Yan, R., Wang, S., Zhen, L.\*, & **Jiang, S.** (2024). [Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.](https://doi.org/10.1016/j.cor.2023.106517) *Computers & Operations Research*, 163, 106517.
 
+
+<div style="border:1px solid #ccc; padding:10px; display:flex; justify-content:space-between; align-items:center; border-radius:8px;">
+  <div>
+    <p>
+  <strong>Jiang, S.</strong>, Liu, L., Peng, P., Xu, M., &amp; Yan, R.<sup>*</sup> (2025). 
+  <a href="https://doi.org/10.1080/03088839.2025.2488376">Prediction of vessel arrival time to port: a review of current studies.</a> 
+  <em>Maritime Policy &amp; Management</em>, 1-26.
+</p>
+  </div>
+  <div>
+    <img src="js_photo.JPG" width="200"/>
+  </div>
+</div>
+
+
+
 <!-- - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
   
   
