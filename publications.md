@@ -25,7 +25,7 @@ title: Publications
 </p>
   </div>
   <div>
-    <img src="js_photo.JPG" width="200"/>
+    <img src="https://Jayceshuo.github.io/framework_direct.png" width="200"/>
   </div>
 </div>
 
