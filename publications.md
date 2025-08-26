@@ -18,7 +18,7 @@ title: Publications
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
-            border: 3px solid #ccc; padding: 10px; border-radius: 8px; max-width: 700px;">
+            border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
   
   <div>
     <strong>Jiang, S.</strong>, Liu, L., Peng, P., Xu, M., &amp; Yan, R.<sup>*</sup> (2025). 
@@ -33,31 +33,30 @@ title: Publications
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
-            border: 3px solid #ccc; padding: 10px; border-radius: 8px; max-width: 700px;">
+            border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
   
   <div>
-    <p>
     Yan, R.<sup>†</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Wang, K.<sup>*</sup>, &amp; Wang, S. (2025). 
     <a href="https://doi.org/10.1016/j.trc.2025.105002">Optimizing prediction models by considering different time granularity of features and target: Problem and solution.</a> 
     <em>Transportation Research Part C: Emerging Technologies</em>, 172, 105002.
-</p>
   </div>
+
+  
   <div>
-    <img src="https://Jayceshuo.github.io/images/granularity.png" width="300" alt="sample"/>
+    <img src="https://Jayceshuo.github.io/images/granularity.png" width="450" alt="sample"/>
   </div>
 
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
-            border: 3px solid #ccc; padding: 10px; border-radius: 8px; max-width: 700px;">
+            border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
   
   <div>
-    <p>
-  Yan, R., Wang, S., Zhen, L.<sup>*</sup>, &amp; <strong>Jiang, S.</strong> (2024). 
-  <a href="https://doi.org/10.1016/j.cor.2023.106517">Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.</a> 
-  <em>Computers &amp; Operations Research</em>, 163, 106517.
-</p>
-</p>
+  <div>
+    Yan, R., Wang, S., Zhen, L.<sup>*</sup>, &amp; <strong>Jiang, S.</strong> (2024).  
+    <a href="https://doi.org/10.1016/j.cor.2023.106517">Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.</a> 
+    <em>Computers &amp; Operations Research</em>, 163, 106517.
+  </div>
   </div>
 </div>
 
