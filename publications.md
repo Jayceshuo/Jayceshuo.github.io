@@ -16,6 +16,21 @@ title: Publications
 - Yan, R., Wang, S., Zhen, L.\*, & **Jiang, S.** (2024). [Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.](https://doi.org/10.1016/j.cor.2023.106517) *Computers & Operations Research*, 163, 106517. -->
 
 
+<div style="display: flex; align-items: center; justify-content: space-between; 
+            border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
+  
+  <div>
+    Yan, R.<sup>†</sup><sup>*</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Angeloudis, P., Cao, X., Wang, J.<sup>*</sup>, &amp; Wang, S. (2025). 
+    <a href="https://doi.org/10.1016/j.trc.2025.105317">Prediction of ship risk by a monotonic decision tree.</a> 
+    <em>Transportation Research Part C: Emerging Technologies</em>, 180, 105317.
+  </div>
+
+  <div>
+    <img src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png" width="300" alt="sample"/>
+  </div>
+
+</div>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
