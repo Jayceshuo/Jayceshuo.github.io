@@ -26,7 +26,7 @@ title: Publications
   </div>
 
   <div>
-    <img src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png" width="450" alt="sample"/>
+    <img src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png" width="350" alt="sample"/>
   </div>
 
 </div>
