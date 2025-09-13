@@ -57,7 +57,7 @@ title: Publications
     <em>Maritime Policy &amp; Management</em>, 1-26.
   </div>
 
-  <div style="flex: 1; text-align: right; position: relative; width: 20%; padding-top: 26.25%;">
+  <div style="flex: 1; text-align: right; position: relative; width: 30%; padding-top: 26.25%;">
     <img src="https://Jayceshuo.github.io/images/framework_path.png" 
          style="position: absolute; top:0; left:0; width:100%; height:100%; object-fit:contain;" 
          alt="Monotonic decision tree framework"/>
@@ -81,6 +81,23 @@ title: Publications
 </div> -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
+            border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
+
+  <div style="flex: 1; padding-right: 15px;">
+   Yan, R.<sup>†</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Wang, K.<sup>*</sup>, &amp; Wang, S. (2025). 
+    <a href="https://doi.org/10.1016/j.trc.2025.105002">Optimizing prediction models by considering different time granularity of features and target: Problem and solution.</a> 
+    <em>Transportation Research Part C: Emerging Technologies</em>, 172, 105002.
+  </div>
+
+  <div style="flex: 1; text-align: right; position: relative; width: 40%; padding-top: 26.25%;">
+    <img src="https://Jayceshuo.github.io/images/granularity.png" 
+         style="position: absolute; top:0; left:0; width:100%; height:100%; object-fit:contain;" 
+         alt="Monotonic decision tree framework"/>
+  </div>
+
+</div>
+
+<!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
   
   <div>
@@ -94,7 +111,7 @@ title: Publications
     <img src="https://Jayceshuo.github.io/images/granularity.png" style="width:40%; height:auto;"  alt="sample"/>
   </div>
 
-</div>
+</div> -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
