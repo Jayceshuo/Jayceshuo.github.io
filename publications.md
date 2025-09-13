@@ -26,7 +26,7 @@ title: Publications
   </div>
 
   <div>
-    <img src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png" style="width:350px; height:auto;"  alt="sample"/>
+    <img src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png" style="width:40%; height:auto;"  alt="sample"/>
   </div>
 
 </div>
@@ -42,7 +42,7 @@ title: Publications
   </div>
 
   <div>
-    <img src="https://Jayceshuo.github.io/images/framework_path.png" style="width:350px; height:auto;"  alt="sample"/>
+    <img src="https://Jayceshuo.github.io/images/framework_path.png" style="width:40%; height:auto;"  alt="sample"/>
   </div>
 
 </div>
@@ -58,7 +58,7 @@ title: Publications
 
   
   <div>
-    <img src="https://Jayceshuo.github.io/images/granularity.png" style="width:350px; height:auto;"  alt="sample"/>
+    <img src="https://Jayceshuo.github.io/images/granularity.png" style="width:40%; height:auto;"  alt="sample"/>
   </div>
 
 </div>
