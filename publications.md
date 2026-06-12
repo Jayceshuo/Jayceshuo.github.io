@@ -19,6 +19,23 @@ title: Publications
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
 
   <div style="flex: 1; padding-right: 15px;">
+     <strong>Jiang, S.</strong><sup>†</sup>, Zhang, M., Liang, M., Peng, P., &amp; Yan, R. (2026). 
+    <a href="https://doi.org/10.1016/j.tre.2026.105011">Development of a dynamic deep learning framework for the prediction of vessel arrival time to port.</a> 
+    <em>Transportation Research Part E: Logistics and Transportation Review</em>, 213, 105011.
+  </div>
+
+  <div style="flex: 1; text-align: right; position: relative; width: 20%; padding-top: 26.25%;">
+    <img src="https://Jayceshuo.github.io/images/HVA-ETA.png" 
+         style="position: absolute; top:0; left:0; width:100%; height:100%; object-fit:contain;" 
+         alt="HVA-ETA framework"/>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; 
+            border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
+
+  <div style="flex: 1; padding-right: 15px;">
     Yan, R.<sup>†</sup><sup>*</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Angeloudis, P., Cao, X., Wang, J.<sup>*</sup>, &amp; Wang, S. (2025). 
     <a href="https://doi.org/10.1016/j.trc.2025.105317">Prediction of ship risk by a monotonic decision tree.</a> 
     <em>Transportation Research Part C: Emerging Technologies</em>, 180, 105317.
