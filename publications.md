@@ -15,6 +15,31 @@ title: Publications
 
 - Yan, R., Wang, S., Zhen, L.\*, & **Jiang, S.** (2024). [Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.](https://doi.org/10.1016/j.cor.2023.106517) *Computers & Operations Research*, 163, 106517. -->
 
+<div style="display:flex; align-items:center; 
+            border:2px solid #ccc;
+            padding:10px;
+            border-radius:8px;
+            margin-bottom:10px;">
+
+  <!-- 文本 -->
+  <div style="flex: 2; padding-right:20px;">
+    <strong>Jiang, S.</strong><sup>†</sup>,
+    Zhang, M., Liang, M., Peng, P., & Yan, R. (2026).
+    <a href="https://doi.org/10.1016/j.tre.2026.105011">
+      Development of a dynamic deep learning framework for the prediction of vessel arrival time to port.
+    </a>
+    <em>Transportation Research Part E</em>, 213, 105011.
+  </div>
+
+  <!-- 图片 -->
+  <div style="flex: 1;">
+    <img
+      src="https://Jayceshuo.github.io/images/HVA-ETA.png"
+      style="width:100%; max-width:320px; height:auto;"
+      alt="HVA-ETA framework">
+  </div>
+
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
