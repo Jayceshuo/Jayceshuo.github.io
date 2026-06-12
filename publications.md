@@ -28,7 +28,7 @@ title: Publications
     <a href="https://doi.org/10.1016/j.tre.2026.105011">
       Development of a dynamic deep learning framework for the prediction of vessel arrival time to port.
     </a>
-    <em>Transportation Research Part E</em>, 213, 105011.
+    <em>Transportation Research Part E: Logistics and Transportation Review</em>, 213, 105011.
   </div>
 
   <!-- 图片 -->
