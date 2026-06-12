@@ -32,16 +32,16 @@ title: Publications
   </div>
 
   <!-- 图片 -->
-  <div style="flex: 1;">
+  <div style="flex: 1.5;">
     <img
       src="https://Jayceshuo.github.io/images/HVA-ETA.png"
-      style="width:100%; max-width:320px; height:auto;"
+      style="width:100%; max-width:400px; height:auto;"
       alt="HVA-ETA framework">
   </div>
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; 
+<!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
 
   <div style="flex: 1; padding-right: 15px;">
@@ -55,12 +55,32 @@ title: Publications
          style="position: absolute; top:0; left:0; width:100%; height:100%; object-fit:contain;" 
          alt="HVA-ETA framework"/>
   </div>
+</div> -->
 
+<div style="display:flex; align-items:center; 
+            border:2px solid #ccc;
+            padding:10px;
+            border-radius:8px;
+            margin-bottom:10px;">
 
+  <!-- 文本 -->
+  <div style="flex: 2; padding-right:20px;">
+    Yan, R.<sup>†</sup><sup>*</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Angeloudis, P., Cao, X., Wang, J.<sup>*</sup>, &amp; Wang, S. (2025). 
+    <a href="https://doi.org/10.1016/j.trc.2025.105317">Prediction of ship risk by a monotonic decision tree.</a> 
+    <em>Transportation Research Part C: Emerging Technologies</em>, 180, 105317.
+  </div>
+
+  <!-- 图片 -->
+  <div style="flex: 1.5;">
+    <img
+      src="https://Jayceshuo.github.io/images/Monotonicity_framwork.png"
+      style="width:100%; max-width:400px; height:auto;"
+      alt="HVA-ETA framework">
+  </div>
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; 
+<!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
 
   <div style="flex: 1; padding-right: 15px;">
@@ -75,7 +95,7 @@ title: Publications
          alt="Monotonic decision tree framework"/>
   </div>
 
-</div>
+</div> -->
 
 
 <!-- <div style="display: flex; align-items: center; justify-content: space-between; 
@@ -93,7 +113,30 @@ title: Publications
 
 </div> -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; 
+<div style="display:flex; align-items:center; 
+            border:2px solid #ccc;
+            padding:10px;
+            border-radius:8px;
+            margin-bottom:10px;">
+
+  <!-- 文本 -->
+  <div style="flex: 2; padding-right:20px;">
+    <strong>Jiang, S.</strong>, Liu, L., Peng, P., Xu, M., &amp; Yan, R.<sup>*</sup> (2025). 
+    <a href="https://doi.org/10.1080/03088839.2025.2488376">Prediction of vessel arrival time to port: a review of current studies.</a> 
+    <em>Maritime Policy &amp; Management</em>, 1-26.
+  </div>
+
+  <!-- 图片 -->
+  <div style="flex: 1.5;">
+    <img
+      src="https://Jayceshuo.github.io/images/framework_path.png"
+      style="width:100%; max-width:400px; height:auto;"
+      alt="HVA-ETA framework">
+  </div>
+
+</div>
+
+<!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
 
   <div style="flex: 1; padding-right: 15px;">
@@ -108,7 +151,7 @@ title: Publications
          alt="Monotonic decision tree framework"/>
   </div>
 
-</div>
+</div> -->
 
 <!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
@@ -125,7 +168,30 @@ title: Publications
 
 </div> -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; 
+<div style="display:flex; align-items:center; 
+            border:2px solid #ccc;
+            padding:10px;
+            border-radius:8px;
+            margin-bottom:10px;">
+
+  <!-- 文本 -->
+  <div style="flex: 2; padding-right:20px;">
+    Yan, R.<sup>†</sup>, <strong>Jiang, S.</strong><sup>†</sup>, Wang, K.<sup>*</sup>, &amp; Wang, S. (2025). 
+    <a href="https://doi.org/10.1016/j.trc.2025.105002">Optimizing prediction models by considering different time granularity of features and target: Problem and solution.</a> 
+    <em>Transportation Research Part C: Emerging Technologies</em>, 172, 105002.
+  </div>
+
+  <!-- 图片 -->
+  <div style="flex: 1.5;">
+    <img
+      src="https://Jayceshuo.github.io/images/granularity.png"
+      style="width:100%; max-width:400px; height:auto;"
+      alt="HVA-ETA framework">
+  </div>
+
+</div>
+
+<!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 2px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px;">
 
   <div style="flex: 1; padding-right: 15px;">
@@ -140,7 +206,7 @@ title: Publications
          alt="Monotonic decision tree framework"/>
   </div>
 
-</div>
+</div> -->
 
 <!-- <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
