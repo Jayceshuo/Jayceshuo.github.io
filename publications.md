@@ -24,7 +24,7 @@ title: Publications
   <!-- 文本 -->
   <div style="flex: 2; padding-right:20px;">
     <strong>Jiang, S.</strong><sup>†</sup>,
-    Zhang, M., Liang, M., Peng, P., & Yan, R. (2026).
+    Zhang, M., Liang, M., Peng, P., & Yan, R.<sup>*</sup> (2026).
     <a href="https://doi.org/10.1016/j.tre.2026.105011">
       Development of a dynamic deep learning framework for the prediction of vessel arrival time to port.
     </a>
