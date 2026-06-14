@@ -18,7 +18,7 @@ If you find my research or work interesting, I am always delighted to exchange i
 ## Experiences
 
 - Ph.D. candidate (2023-present), [MARINA Lab](https://www.linkedin.com/company/100948606/admin/feed/posts/), School of Civil and Environmental Engineering, Nanyang Technological University, Singapore
-- Research Assistant (2022-2023), [HKU Smart Mobility Lab](https://sites.google.com/view/kejintao), Department of Civil Engineering, Faculty of Engineering, The University of Hong Kong, Hong Kong SAR
+- Research Assistant (2022-2023), [HKU Smart Mobility Lab](https://hku-kejintao.github.io/), Department of Civil Engineering, Faculty of Engineering, The University of Hong Kong, Hong Kong SAR
 
 ---
 
