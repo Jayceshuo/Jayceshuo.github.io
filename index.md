@@ -17,8 +17,8 @@ If you find my research or work interesting, I am always delighted to exchange i
 
 ## Experiences
 
-- Ph.D. candidate (2023-present, supervisor: [*Prof.* YAN Ran](https://ranyan.w3spaces.com/)), [MARINA Lab](https://www.linkedin.com/company/100948606/admin/feed/posts/), School of Civil and Environmental Engineering, Nanyang Technological University, Singapore
-- Research Assistant (2022-2023, [*Prof.* KE Jintao](https://hku-kejintao.github.io/)), HKU Smart Mobility Lab, Department of Civil Engineering, Faculty of Engineering, The University of Hong Kong, Hong Kong SAR
+- Ph.D. candidate (2023-present, Supervisor: [*Prof.* YAN Ran](https://ranyan.w3spaces.com/)), [MARINA Lab](https://www.linkedin.com/company/100948606/admin/feed/posts/), School of Civil and Environmental Engineering, Nanyang Technological University, Singapore
+- Research Assistant (2022-2023, Supervisor: [*Prof.* KE Jintao](https://hku-kejintao.github.io/)), HKU Smart Mobility Lab, Department of Civil Engineering, Faculty of Engineering, The University of Hong Kong, Hong Kong SAR
 
 ---
 
