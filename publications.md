@@ -226,6 +226,19 @@ title: Publications
 
 <div style="display: flex; align-items: center; justify-content: space-between; 
             border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
+
+  <!-- 文本 -->
+  <div style="flex: 2; padding-right:20px;">
+        Yan, R., Wang, S., Zhen, L.<sup>*</sup>, &amp; <strong>Jiang, S.</strong> (2024).  
+    <a href="https://doi.org/10.1016/j.cor.2023.106517">Classification and regression in prescriptive analytics: Development of hybrid models and an example of ship inspection by port state control.</a> 
+    <em>Computers &amp; Operations Research</em>, 163, 106517.
+  </div>
+
+
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; 
+            border: 3px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom:10px; max-width: 700px;">
   
   <div>
   <div>
