@@ -123,7 +123,7 @@ title: Publications
   <div style="flex: 2; padding-right:20px;">
     <strong>Jiang, S.</strong>, Liu, L., Peng, P., Xu, M., &amp; Yan, R.<sup>*</sup> (2025). 
     <a href="https://doi.org/10.1080/03088839.2025.2488376">Prediction of vessel arrival time to port: a review of current studies.</a> 
-    <em>Maritime Policy &amp; Management</em>, 1-26.
+    <em>Maritime Policy &amp; Management</em>, 1-26. (Top 100 Most Popular Articles in Humanities and Social Sciences Published by Chinese Authors for 2025 Taylor & Francis)
   </div>
 
   <!-- 图片 -->
